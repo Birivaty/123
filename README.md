@@ -1,7 +1,11 @@
 # NeuroStartUp
 
 ![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
-
+ <style>
+ .selector {
+  font-family: "Awesome", Arial, sans-serif;
+  color: red;
+}
 *NeuroStartUp* — динамически развивающийся стартап, специализирующийся на поиске с использованием 
  новейших технологий искусственного интеллекта.
 
@@ -9,3 +13,4 @@
 * Высокая точность поиска
 * Высокая скорость поиска
 * Низкая цена
+</style>
